@@ -126,7 +126,7 @@ li{
 #before{
     display: block;
     content: ' ';
-    background: url(/footer/ftr.png);
+    background: url(footer/ftr.png);
     background-size: 900px 300px;
     margin: 0 auto;
     background-repeat: repeat-x;
