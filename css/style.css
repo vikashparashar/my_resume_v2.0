@@ -1,0 +1,142 @@
+body {
+  margin-top: 50px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 10px;
+  /* background-color:#6f87ab; */
+  /* color: rgba(58, 179, 196, 0.829); */
+  color: rgb(134, 24, 24);
+  font-style: cursive;
+  /* background-image: url('/img/background/40.jpg'); */
+  /* background-image: url('/img/background/38.jpg'); */
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+  visibility: initial;
+
+}
+.hacker{
+  height: 3000px;
+  width: 1500px;
+}
+img {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: 150px;
+  width: 150px;
+}
+
+.vikashlogo {
+  height: 80px;
+  width: 282px;
+  padding-bottom: 0%;
+  border: 0px;
+}
+.parasharlogo {
+  height: 80px;
+  width: 500pxpx;
+  border: 0ch;
+  padding-top: 0%;
+}
+h5 {
+  margin-top: 50px;
+}
+
+hr {
+  background-color: rgb(211, 102, 48);
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+h2 {
+  color: rgba(16, 40, 45, 0.896);
+  width: 400px;
+  margin-top: 100px;
+}
+h5 {
+  color: rgb(20, 52, 54);
+}
+p {
+  text-align: center;
+  
+  column-gap: normal;
+  font-style: oblique;
+  margin-left: 200px;
+  margin-right: 200px
+}
+section {
+  margin-top: 50px;
+}
+footer {
+  text-align: center;
+}
+td {
+  list-style-type: none;
+}
+ul {
+  list-style-type: none;
+}
+strong {
+  color: rgba(29, 99, 67, 0.96);
+}
+a {
+  color: rgba(13, 74, 56, 0.89);
+  text-decoration: none;
+}
+th {
+  height: 60px;
+  width: 350px;
+  
+  
+}
+table {
+  margin-left: 50px;
+}
+/* .experience{
+  background-color: rgb(127, 224, 117);
+}
+.skills{
+  background-color: rgb(127, 224, 117);
+}
+.education{
+  background-color: rgb(127, 224, 117);
+}
+.additional_information{
+  background-color: rgb(127, 224, 117);
+}
+.certification{
+  background-color: rgb(127, 224, 117);
+}
+.language_known{
+  background-color: rgb(127, 224, 117);
+}
+*/
+.communication_address{
+  text-align: center;
+}
+th{
+  color: rgb(49, 54, 16);
+}
+td{
+  color: rgb(17, 47, 47);
+}
+li{
+  color: rgba(14, 16, 62, 0.823);
+}
+
+#before{
+    display: block;
+    content: ' ';
+    background: url(/footer/ftr.png);
+    background-size: 900px 300px;
+    margin: 0 auto;
+    background-repeat: repeat-x;
+    min-height: 300px;
+    margin-top: 100px;
+    max-width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+h4{
+  margin-left: 200px;
+  margin-right: 200px
+}
